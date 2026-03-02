@@ -1,2 +1,2 @@
-worker: python "Card x chk (updated) .py"
+worker: python "Hello.py"
 
