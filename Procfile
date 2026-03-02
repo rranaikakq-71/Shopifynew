@@ -1,1 +1,2 @@
-done: python "Card x chk (updated) .py"
+worker: python "Card x chk (updated) .py"
+
