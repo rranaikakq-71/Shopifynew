@@ -1,4 +1,3 @@
 telethon
 requests
-sqlite3
 asyncio
